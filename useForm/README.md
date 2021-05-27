@@ -6,7 +6,7 @@ Example of use:
 const initialForm = {
   name: '',
   age: 0,
-  email: '', 
+  email: '',
 }
  const [values, handleInputChange, reset] = useForm(initialForm);
 ```
